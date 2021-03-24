@@ -164,9 +164,14 @@ i:hover {
     text-align: center;
   }
 
+  .col-lg-6 {
+    text-align: center;
+  }
+
   .imagetitle {
     position: static;
     width: 40%;
+    margin-right: 12vmin;
     transform: rotate(0);
   }
 }
